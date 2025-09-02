@@ -11,4 +11,15 @@ feature/update-readme
  Department: CSE (First Year)
  Interest Areas: Coding, Problem Solving, AI/ML
 
+ ## Skills
+
+- Coding
+- Problem Solving
+- AI/ML
+- Data Structures
+- Algorithms
+- Teamwork
+- Communication
+
+
 
