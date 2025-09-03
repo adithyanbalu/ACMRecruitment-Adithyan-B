@@ -4,7 +4,7 @@ feature/readme-update
 #conflict line added in readme-update branch
 
 
-#updated readme line-A
+#updated readme line-B
 feature/update-readme
 #About Me
  Name: Adithyan B  
