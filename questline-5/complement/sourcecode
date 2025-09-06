@@ -1,1 +1,10 @@
 
+def twos_complement_to_decimal(binary_str):
+    value = int(binary_str, 2)
+    if binary_str[0] == '1':  
+        value -= 1 << len(binary_str)
+    return value
+
+binary = '11010110'
+decimal = twos_complement_to_decimal(binary)
+print(f"Binary: {binary} → Decimal: {decimal}")
