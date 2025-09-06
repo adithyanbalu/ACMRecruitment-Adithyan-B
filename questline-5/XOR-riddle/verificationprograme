@@ -8,6 +8,6 @@ print("X =", X)
 print("N XOR X =", result)
 
 if result == 45:
-    print(" Verification successful!")
+    print(" Verification successful")
 else:
-    print(" Verification failed.")
+    print(" Verification failed")
