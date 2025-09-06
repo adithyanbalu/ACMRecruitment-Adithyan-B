@@ -1,0 +1,13 @@
+
+N = 58
+X = 23
+result = N ^ X  
+
+print("N =", N)
+print("X =", X)
+print("N XOR X =", result)
+
+if result == 45:
+    print(" Verification successful!")
+else:
+    print(" Verification failed.")
