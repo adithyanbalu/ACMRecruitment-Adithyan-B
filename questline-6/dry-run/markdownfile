@@ -5,7 +5,7 @@ print sum
 
 the tracetable
 | Step | i | sum (before) | Operation     | sum (after) |
-|      |   |              |               |             |
+|------|---|--------------|---------------|-------------|
 | 1    | 1 | 0            | sum ← sum + 1 | 1           |
 | 2    | 2 | 1            | sum ← sum + 2 | 3           |
 | 3    | 3 | 3            | sum ← sum + 3 | 6           |
