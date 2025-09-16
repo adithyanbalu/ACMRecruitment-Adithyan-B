@@ -4,9 +4,12 @@
 # Problem 1
 # Multiples of 3 or 5
 
-def problem1(limit=1000):
-    """Return the sum of all multiples of 3 or 5 below limit."""
-    return sum(i for i in range(limit) if i % 3 == 0 or i % 5 == 0)
+total=0
+for i in range(1000):
+    if i%3==0 or i%5==0:
+        total+=i
+print(total)
+
 
 # Problem 2
 # Even Fibonacci Number
